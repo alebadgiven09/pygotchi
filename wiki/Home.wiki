@@ -1,0 +1,30 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+This simple game project started in July 2010 in a bored afternoon. I started just with the connection aim the client and the server, then I thought to put something interactive, and why not an animal? In my youth I always wanted one tamagotchi but I never bough one, so I make my one! And this is the result.
+
+= Details =
+
+This is a beta release, there are so many bugs in the source but it works.
+Now the server works only on linux, the client works on linux and windows both.
+
+*FEATURES*
+
+- Socket connection
+- 3 kinds of pets ( Human, Alien, Tortoise )
+- Age, night/day, happiness, cleaness and hunger
+- There is a log beta version
+- There is a mail service between the users
+
+*TODO*
+
+- Others kinds of pets
+- Diseases
+- Stable version of logs
+- Stable version of mail service
+- Pets of different owners can play each other
+
+If you have any idea about new features to add, please contact me here:
+*bughardy76@gmail.com*
+
+Have Fun!
