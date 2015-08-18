@@ -1,0 +1,4 @@
+# Contacts #
+If you have any idea about new features, feel free to contact me here:
+
+  * bughardy76@gmail.com

@@ -1,0 +1,39 @@
+# Introduction #
+
+Here I'll explain how set the server.
+
+
+# Step 1 #
+
+After you downloaded server file you have to make a new folder called pygotchi, here: **/home/pygotchi/**. Now, run the server by root.
+```
+bughardy@cryptolab:~$ sudo mkdir /home/pygotchi
+bughardy@cryptolab:~$ sudo python server_0.1.py
+```
+
+# Step 2 #
+
+Now the server asks you if you need set the conf files and folders, do that only if this is your first time.
+```
+bughardy@cryptolab:~$ sudo python server_0.1.py 
+Do you need to configure the server? [y]: y
+New  Folders are going to be created
+
+please select the path: /home/bughardy/pygotchi/
+```
+**NOTE, the folder /home/youruser/pygotchi/ needs to be created.**
+
+# Step 3 #
+
+Now the server if conf. you don't need to set it anymore, a conf file will be saved in **/home/pygotchi/**.
+Remember that the server needs to be runned by root.
+
+# LOGs #
+
+The server show you live the logs.
+```
+Tue Mar  1 18:34:11 2011 ]--STARTING TAMAGOTCHI SERVER--[
+Tue Mar  1 18:34:27 2011 Request connection from 127.0.0.1
+Tue Mar  1 18:34:30 2011 User: guest wrong password, with IP: 127.0.0.1
+Tue Mar  1 18:34:39 2011 Request connection from 127.0.0.1
+```
